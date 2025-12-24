@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4af2ca70-55b5-47d1-9e2f-5916d7299308" /># Tugas Analisis Statistik: Deskriptif, Korelasi, dan Regresi
+Tugas Analisis Statistik: Deskriptif, Korelasi, dan Regresi
 
 ## 1. Informasi Penyusun
 
